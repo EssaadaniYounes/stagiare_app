@@ -1,0 +1,11 @@
+C:\Users\Khalid\source\repos\stagiaire_app\bin\Debug\stagiaire_app.exe.config
+C:\Users\Khalid\source\repos\stagiaire_app\bin\Debug\stagiaire_app.exe
+C:\Users\Khalid\source\repos\stagiaire_app\bin\Debug\stagiaire_app.pdb
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.csprojAssemblyReference.cache
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.Form1.resources
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.Properties.Resources.resources
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.csproj.GenerateResource.cache
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.csproj.CoreCompileInputs.cache
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.exe
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.pdb
+C:\Users\Khalid\source\repos\stagiaire_app\obj\Debug\stagiaire_app.Cherche.resources
